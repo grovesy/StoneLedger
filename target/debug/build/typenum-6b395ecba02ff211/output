@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\projects\grovesy\StoneLedger\target\debug\build\typenum-6b395ecba02ff211\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\projects\grovesy\StoneLedger\target\debug\build\typenum-6b395ecba02ff211\out\op.rs
